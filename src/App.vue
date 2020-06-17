@@ -29,7 +29,8 @@ export default {
               }
           ],
           userObj:{
-              age:18
+              age:18,
+              sex:1
           }
       }
    }
