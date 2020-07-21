@@ -1,5 +1,7 @@
 <template>
-
+    <div>
+        this is chatCom!
+    </div>
 </template>
 
 <script>

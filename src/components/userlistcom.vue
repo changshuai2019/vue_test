@@ -21,7 +21,6 @@
                 console.log($event);
                 console.log(this.$emit);
             }
-            ,
         }
     }
 </script>
